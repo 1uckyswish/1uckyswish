@@ -14,14 +14,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=1uckyswish&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=1uckyswish&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1uckyswish&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![image](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=1uckyswish&limit=5&theme=radical&combine_all_yearly_contributions=true)
+ -->
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
