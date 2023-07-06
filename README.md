@@ -22,6 +22,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1uckyswish&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <div>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=1uckyswish&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </div>
+</p>
+
 
 
 
