@@ -1,11 +1,11 @@
 [![](https://visitcount.itsvg.in/api?id=1uckyswish&icon=8&color=11)](https://visitcount.itsvg.in)
 <!-- ![image](https://github.com/1uckyswish/1uckyswish/assets/107442415/c55788c9-1bbc-4d5e-892e-42f53f940acf) -->
 
-# 💫 About Me:
+# 💫About Me:
 - 🧑🏻‍💻I’m currently working on [MotionBlurr React](https://github.com/1uckyswish/MotionBlur-Firebase-React)<br><br>- 🌱 I’m currently learning **JQuery & Tailwind**<br><br>- 💬 Ask me about **JavaScript, HTML5, CSS3**<br><br>- 📫 How to reach me **noelguillenblas@gmail.com**<br><br>- ⚡ Fun fact about me: **I'm a foodie, forever hungry for new tastes and cultures!**
 
 
-## 🌐 Socials:
+## 🌐Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noel-guillen-blas-b63353257) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/1uckyswish) 
 
 # 💻 Tech Stack:
