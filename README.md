@@ -2,7 +2,7 @@
 <!-- ![image](https://github.com/1uckyswish/1uckyswish/assets/107442415/c55788c9-1bbc-4d5e-892e-42f53f940acf) -->
 
 # 💫 About Me 😄:
-- 🧑🏻‍💻I’m currently working on [MotionBlurr React](https://github.com/1uckyswish/MotionBlur-Firebase-React)<br><br>- 🌱 I’m currently learning **JQuery & Tailwind**<br><br>- 💬 Ask me about **React, JavaScript, HTML5, CSS3**<br><br>- 📫 How to reach me **noelguillenblas@gmail.com**<br><br>- ⚡ Fun fact about me: **I'm a foodie, forever hungry for new tastes and cultures!**
+- 🧑🏻‍💻I’m currently working on [MotionBlurr React](https://github.com/1uckyswish/MotionBlur-Firebase-React)<br><br>-🤓  I’m currently learning **JQuery & Tailwind**<br><br>- 💬 Ask me about **React, JavaScript, HTML5, CSS3**<br><br>- 📫 How to reach me **noelguillenblas@gmail.com**<br><br>- ⚡ Fun fact about me: **I'm a foodie, forever hungry for new tastes and cultures!**
 <br><br>- 🌐  Feel free to browse through my [portfolio](https://noelguillen.netlify.app/) page to discover my latest work and learn more about me
 
 
