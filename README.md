@@ -2,7 +2,7 @@
 <!-- ![image](https://github.com/1uckyswish/1uckyswish/assets/107442415/c55788c9-1bbc-4d5e-892e-42f53f940acf) -->
 
 # 💫 About Me 😄:
-- 🧑🏻‍💻I’m currently working on [Github API React Project using Tailwind CSS](https://github.com/1uckyswish/Github-API-React-Tailwind)<br><br>-🤓  I’m currently learning **Tailwind**<br><br>- 💬 Ask me about **React, JavaScript, HTML5, CSS3**<br><br>- 📫 How to reach me **noelguillenblas@gmail.com**<br><br>- ⚡ Fun fact about me: **I'm a foodie, forever hungry for new tastes and cultures!**
+- 🧑🏻‍💻I’m currently working on [Github API React Project using Tailwind CSS](https://github.com/1uckyswish/Github-API-React-Tailwind)<br><br>-🤓  I’m currently learning **Tailwind CSS**<br><br>- 💬 Ask me about **React, JavaScript, HTML5, CSS3**<br><br>- 📫 How to reach me **noelguillenblas@gmail.com**<br><br>- ⚡ Fun fact about me: **I'm a foodie, forever hungry for new tastes and cultures!**
 <br><br>- 🌐  Feel free to browse through my [portfolio](https://noelguillen.netlify.app/) page to discover my latest work and learn more about me
 
 
