@@ -35,11 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1uckyswish&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)]([https://open.spotify.com/user/i8xef44bw5jomysjr3vnk699k?si=X5jQvkhXQpeAMmxpcIfzeA&nd=1](https://open.spotify.com/user/vxone47r6ph6s9b70s6kgqkxr))
-<br/>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
