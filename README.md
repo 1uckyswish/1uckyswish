@@ -24,8 +24,18 @@
 
 # <h1> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif'  width = 45px height=45px> Get to know me! </h2>
 
-- 🧑🏻‍💻I’m currently working on [Github API React Project using Tailwind CSS](https://github.com/1uckyswish/Github-API-React-Tailwind)<br><br>-🤓  I’m currently learning **MYSQL & Java**<br><br>- 💬 Ask me about **React, JavaScript, HTML5, CSS3**<br><br>- 📫 How to reach me **noelguillenblas@gmail.com**<br><br>- ⚡ Fun fact about me: **I'm a foodie, forever hungry for new tastes and cultures!**
-<br><br>- 🌐  Feel free to browse through my [portfolio](https://noelguillen.netlify.app/) page to discover my latest work and learn more about me
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on [Github API React Project using Tailwind CSS](https://github.com/1uckyswish/Github-API-React-Tailwind)<br>
+
+ - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp; &nbsp;  I’m currently learning **MYSQL & Java**<br>
+
+
+ - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />&nbsp; Ask me about **React, JavaScript, HTML5, CSS3**<br>
+ 
+ - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />&nbsp;&nbsp; How to reach me **noelguillenblas@gmail.com**<br>
+ 
+ - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="18" />&nbsp; &nbsp; Fun fact about me: **I'm a foodie, forever hungry for new tastes and cultures!**<br>
+
+- <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="25" />&nbsp; Feel free to browse through my [portfolio](https://noelguillen.netlify.app/) page to discover my latest work and learn more about me<br>
 
 <!--
 ## 🌐 Socials:
