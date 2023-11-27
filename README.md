@@ -22,7 +22,7 @@
 
 <!-- ![image](https://github.com/1uckyswish/1uckyswish/assets/107442415/c55788c9-1bbc-4d5e-892e-42f53f940acf)[![](https://visitcount.itsvg.in/api?id=1uckyswish&icon=8&color=11)](https://visitcount.itsvg.in)-->
 
-# <h1> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif'  width = 45px height=45px> Get to know me! </h2>
+# <h1> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif'  width = 60px height=45px> Get to know me! </h2>
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on [Github API React Project using Tailwind CSS](https://github.com/1uckyswish/Github-API-React-Tailwind)<br>
 
