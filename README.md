@@ -26,7 +26,7 @@
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on [Github API React Project using Tailwind CSS](https://github.com/1uckyswish/Github-API-React-Tailwind)<br>
 
- - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp; &nbsp;  I’m currently learning **MYSQL & Java**<br>
+ - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp; &nbsp;  I’m currently learning **Java 17 & MYSQL**<br>
 
 
  - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />&nbsp; Ask me about **Web development, React, or JavaScript**<br>
