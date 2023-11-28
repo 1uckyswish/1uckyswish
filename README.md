@@ -33,9 +33,9 @@
  
  - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />&nbsp;&nbsp; How to reach me **noelguillenblas@gmail.com**<br>
  
- - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="18" />&nbsp; &nbsp; Fun fact about me: **I'm a foodie, forever hungry for new tastes and cultures!**<br>
+ - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="18" />&nbsp; &nbsp; Fun fact about me: **I'm a foodie, always on the lookout for new tastes and cultural experiences!**<br>
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="25" />&nbsp; Feel free to browse through my [portfolio](https://noelguillen.netlify.app/) page to discover my latest work and learn more about me<br>
+- <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="25" />&nbsp; Feel free to browse through my [Portfolio](https://noelguillen.netlify.app/) page to discover my latest work and learn more about me<br>
 
 <!--
 ## 🌐 Socials:
