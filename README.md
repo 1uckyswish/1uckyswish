@@ -65,7 +65,10 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 -->
-# <h1><img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 32px height=32px>  Github Stats </h2>
+# <h1><img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 32px height=32px>  Github Stats <div align="center">
+  <br/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F1uckyswish&label=Github%20Visitors&labelColor=%2337d67a&countColor=%23f47373"  /> 
+</div> </h2>
 <!-- activity graph heroku-app start -->
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=1uckyswish&theme=radical" />
@@ -77,10 +80,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1uckyswish&theme=nightowl&hide_border=false" alt="GitHub Streak" /><br/>
 </p> -->
 
-<div align="center">
-  <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=1uckyswish.1uckyswish&"  /> 
-</div> 
+
 
 
 
