@@ -29,7 +29,7 @@
  - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp; &nbsp;  I’m currently learning **MYSQL & Java**<br>
 
 
- - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />&nbsp; Ask me about **React, JavaScript, HTML5, CSS3**<br>
+ - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />&nbsp; Ask me about **Web development, React, or JavaScript**<br>
  
  - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />&nbsp;&nbsp; How to reach me **noelguillenblas@gmail.com**<br>
  
