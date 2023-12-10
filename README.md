@@ -25,7 +25,7 @@
 
 # <h1> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif'  width = 60px height=45px> Get to know me! </h2>
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on [Github API React Project using Tailwind CSS](https://github.com/1uckyswish/Github-API-React-Tailwind)<br>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on [React Project Using Edamame API With Tailwind CSS](https://github.com/1uckyswish/Edamame-API-React-Tailwind-DaisyUI/tree/main/src)<br>
 
  - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp; &nbsp;  I’m currently learning **Java 17 & MYSQL**<br>
 
