@@ -76,7 +76,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1uckyswish&theme=radical" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1uckyswish&theme=radical" />
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contributions" />
-   <img style="display: block; margin: auto;" src="https://github.r2v.ch/codewars?user=NoelGuillen&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark&cache_control=86400" alt="Codewars" />
+ <a href="https://www.codewars.com/users/NoelGuillen" target="_blank">
+  <img style="display: block; margin: auto;" src="https://github.r2v.ch/codewars?user=NoelGuillen&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark&cache_control=86400" alt="Codewars" />
+</a>
 
 </p>
 
