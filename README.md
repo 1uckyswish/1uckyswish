@@ -9,9 +9,12 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/noel-guillen-blas-b63353257"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <a href="https://wakatime.com/@1uckyswish"> <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" height="25" alt="waka logo" /></a>
+   <a href="https://www.codewars.com/users/NoelGuillen"><img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=black" height="25" alt="codepen logo"  /></a>
+  <a href="https://wakatime.com/@1uckyswish"> <img src="https://img.shields.io/badge/WakaTime-ffffff?style=for-the-badge&logo=WakaTime&logoColor=black" height="25" alt="waka logo" /></a>
   <a href="https://www.instagram.com/luckideveloper/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="intsa logo"  /></a>
-  <a href="https://codepen.io/1uckyswish"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="25" alt="codepen logo"  /></a>
+  <a href="https://codepen.io/1uckyswish"><img src="https://img.shields.io/badge/Codepen-purple?style=for-the-badge&logo=codepen&logoColor=white" height="25" alt="codepen logo"  /></a>
+ <a href="https://www.buymeacoffee.com/luckidev21"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="25" alt="codepen logo"  /></a>
+
 </div>
 
 
