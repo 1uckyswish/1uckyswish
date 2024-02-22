@@ -13,7 +13,7 @@
   <a href="https://noelguillen.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=hotjar&logoColor=white" height="25" alt="codepen logo"  /></a>
   <a href="https://wakatime.com/@1uckyswish"> <img src="https://img.shields.io/badge/WakaTime-green?style=for-the-badge&logo=WakaTime&logoColor=black" height="25" alt="waka logo" /></a>
   <a href="https://www.instagram.com/luckideveloper/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="intsa logo"  /></a>
-  <a href="https://codepen.io/1uckyswish"><img src="https://img.shields.io/badge/Codepen-purple?style=for-the-badge&logo=codepen&logoColor=white" height="25" alt="codepen logo"  /></a>
+<!--   <a href="https://codepen.io/1uckyswish"><img src="https://img.shields.io/badge/Codepen-purple?style=for-the-badge&logo=codepen&logoColor=white" height="25" alt="codepen logo"  /></a> -->
  <a href="https://www.buymeacoffee.com/luckidev21"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="25" alt="codepen logo"  /></a>
 
 </div>
