@@ -31,16 +31,19 @@
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on [Vanilla JS Bakery Page With Bootstrap](https://github.com/twentyfive21/bakery)<br>
 
- - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp; &nbsp;  I’m currently learning **Java 17 & MYSQL**<br>
-
-
  - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />&nbsp; Ask me about **Web Development, React, or JavaScript**<br>
  
- - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />&nbsp;&nbsp; How to reach me **noelguillenblas@gmail.com**<br>
- 
- - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="18" />&nbsp; &nbsp; Fun fact about me: **I'm a foodie, always on the lookout for new tastes and cultural experiences!**<br>
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="25" />&nbsp; Feel free to browse through my [Portfolio](https://noelguillen.netlify.app/) page to discover my latest work and learn more about me<br>
+ - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp; &nbsp;  I’m currently learning **Java 17 & MYSQL**<br>
+ 
+ - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />&nbsp;&nbsp; How to reach me **noelguillenblas@gmail.com**<br>
+
+- <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="25" />&nbsp; Feel free to browse through my [Portfolio](https://noelguillen.netlify.app/) page to discover my latest work and learn more about me<be>
+
+- <img src="https://emojis.slackmojis.com/emojis/images/1705423738/86851/keyboardcat.gif?1705423738" width="18" />&nbsp; &nbsp; Check Out My Own [VSCODE Theme Extension Here!](https://marketplace.visualstudio.com/items?itemName=NoelGuillenBlas.piglets-touch) <br>
+
+ - <img src="https://emojis.slackmojis.com/emojis/images/1693896429/68228/bearfood.jpg?1693896429" width="18" />&nbsp; &nbsp; Fun fact about me: **I'm a foodie, always on the lookout for new tastes and cultural experiences!**<br>
+
 
 <!--
 ## 🌐 Socials:
