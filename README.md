@@ -29,7 +29,7 @@
 
 # <h1> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif'  width = 60px height=45px> Get to know me! </h2>
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on [Vanilla JS E-commerce Store With Bootstrap](https://github.com/twentyfive21/ecommerce-store)<br>
+<!-- -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on [Vanilla JS E-commerce Store With Bootstrap](https://github.com/twentyfive21/ecommerce-store)<br> -->
 
  - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />&nbsp; Ask me about **Web Development, React, or JavaScript**<br>
  
