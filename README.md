@@ -54,7 +54,7 @@
 # <h1><img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> Tech Stack </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,java,mysql,firebase,graphql,tailwind,html,css,vite,bootstrap,git,postman,figma,netlify" width = 5500px>
+    <img src="https://skillicons.dev/icons?i=react,javascript,java,mysql,spring,firebase,graphql,tailwind,html,css,vite,bootstrap,git,npm,postman,idea,vscode,figma,netlify&theme=dark&perline=12" width = 5500px>
   </a>
 </p>
 
