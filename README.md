@@ -1,10 +1,4 @@
-<!--<img align="center" src="https://i.pinimg.com/originals/e8/c2/fb/e8c2fb1892e5b97ea127d2bfce1a248d.gif" height="150px" width="20%" style="display:inline;"><img align="center" src="https://i.pinimg.com/originals/e8/c2/fb/e8c2fb1892e5b97ea127d2bfce1a248d.gif" height="150px" width="20%" style="display:inline;"><img align="center" src="https://i.pinimg.com/originals/e8/c2/fb/e8c2fb1892e5b97ea127d2bfce1a248d.gif" height="150px" width="20%" style="display:inline;"><img align="center" src="https://i.pinimg.com/originals/e8/c2/fb/e8c2fb1892e5b97ea127d2bfce1a248d.gif" height="150px" width="20%" style="display:inline;"><img align="center" src="https://i.pinimg.com/originals/e8/c2/fb/e8c2fb1892e5b97ea127d2bfce1a248d.gif" height="150px" width="20%" style="disp
-<div align="center">
-  <h1> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> </h1>
-<p align='center'>
- 
 
-###
 
 <div align="center">
   <a href="https://linkedin.com/in/noel-guillen-blas-b63353257"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
