@@ -14,9 +14,10 @@
 
 
 ###
-
- <img height="150" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif"  /> 
+<div align="center">
+  <img height="150" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" /> 
 </div>
+
 
 <!-- ![image](https://github.com/1uckyswish/1uckyswish/assets/107442415/c55788c9-1bbc-4d5e-892e-42f53f940acf)[![](https://visitcount.itsvg.in/api?id=1uckyswish&icon=8&color=11)](https://visitcount.itsvg.in)-->
 
